@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="card_faces">
+        <item>@drawable/b01</item>
+        <item>@drawable/b02</item>
+        <item>@drawable/b03</item>
+        <item>@drawable/b04</item>
+        <item>@drawable/b05</item>
+        <item>@drawable/b06</item>
+        <item>@drawable/b07</item>
+        <item>@drawable/b08</item>
+
+    </array>
+</resources>
